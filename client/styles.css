@@ -1,0 +1,20 @@
+.header {
+  background-color: #B8CDD4;
+  border-radius: 5px;
+  padding: 4px;
+  width: 200px;
+  box-shadow: 3px 3px 8px grey;
+}
+
+tr {
+  background-color: #D4BFB8;
+  border-radius: 5px;
+  padding:4px;
+  width: 180px;
+  box-shadow: 3px 3px 8px grey;
+}
+
+
+.artist {
+
+}
